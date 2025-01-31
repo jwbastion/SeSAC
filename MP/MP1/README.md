@@ -26,5 +26,6 @@
 └─ plt.subplot(2, 2)     //카테고리 수에 맞게 출력하기 위함
 └─ plt.pie()             //분류별 비율을 확인하기 위해 파이 차트 사용
 ```
-> **출력 예시**
-![파이]
+
+## 결과 예시
+![파이](https://github.com/jwbastion/SeSAC/blob/main/MP/MP1/%EC%84%B1%EB%B3%84.png)
