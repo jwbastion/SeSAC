@@ -1,5 +1,6 @@
 # [도봉 SW 2기]
 # 챗GPT&랭체인을 활용한 LLM 기반 AI 앱 개발
+![LLM](https://github.com/jwbastion/SeSAC/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-01-31%20134612.png)
 ## Python
 + 연산자
 + 변수, 데이터타입
