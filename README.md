@@ -28,3 +28,20 @@
 + Python 웹 크롤링(Requets, BeautifulSoup, Selenium)
 + **Assignment 4 - Melon, Genie, Bugs 음원 차트 크롤링** 🎧
 + **Assignment 5 - Youtube 채널 랭크 크롤링, matplotlib 및 Seaborn 활용한 시각자료 만들기**
+
+## Flask
++ 웹 프로그래밍의 이해
++ Flask 설치 및 기본 설정
++ 라우팅 및 템플릿 렌더링
++ 쿠키, 세션, 응답
++ Flash 메시지
++ **Assignment 6 - Flask 활용한 File Server 만들기** 📂
+
+## SQL
++ DBMS와 SQL
++ MySQL 설치, 테이블 만들기
++ pymysql 모듈 이해
++ MongoDB 특징과 개념
++ pymongodb 모듈 이해
++ MongoDB 설치
++ **Assignment 7 - MongoDB 활용한 이미지 데이터 다루기** 📷
