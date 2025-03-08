@@ -54,4 +54,28 @@
 + 두 데이터 사이의 관계를 나타내는 지표(공분산, 상관계수)
 
 ===========================================================================  
-### **Side-Project : [KB 차찾자](https://github.com/jwbastion/chachacha/tree/main)** 
+### **Side-Project** : [KB 차찾자](https://github.com/jwbastion/chachacha/tree/main)
+### **Mini-Project** : [서울시 부동산 거래 수요 예측 프로젝트](https://github.com/jwbastion/Mini-project)
+===========================================================================  
+
+## 머신러닝
++ 머신러닝의 개요
++ 지도 학습(분류, 회귀), 비지도 학습(클러스터링, 군집화), 강화학습
++ Scikit-learn을 이용한 분류 및 회귀
++ train_test_split() - train_data, test_data
++ 교차 검증(k-fold)
++ 데이터 전처리(결측치 처리, 이상치 제거, 인코딩, 스케일링, Feature 선택)
++ 분류 성능 평가 지표 - Accuracy, Precision, Recall, F1-score, ROC-AUC 등
++ 분류 모델(DecisionTree, RandomForest, GradientBoost)
++ 회귀 모델(최소 제곱법, LogisticRegression, Lasso, Ridge, ElasticNet)
++ 비지도 학습 모델(K-평균 군집화, 계층적 군집화, 주성분 분석)
++ **Assignment 8 - 의료 데이터 분석 및 다양한 분류 모델을 이용한 심부전증 환자 예측(BinaryClass)** 🫀
++ **Assignment 9 - 연구용 Tabular 데이터 분석 및 다양한 분류 모델을 이용한 학생 성적 등급 예측(MultiClass)** 🧑🏻‍🎓
+
+## 딥러닝
++ 딥러닝(Deep-learning)의 이해
++ 신경망으로 딥러닝(퍼셉트론, 가중치, 가중합, 바이어스, 활성화 함수, 다층 퍼셉트론, 오차 역전파)
++ 활성화 함수 - ReLU, Sigmoid, tanh, Softmax, Softplus
++ 모델의 설계(model.add(), model.compile(), model.fit())
++ model.add() - 입력층, 은닉층, 출력층
++ model.compile() - 오차함수, 최적화
